@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1389670596 source:c:\users\philip\fopro\spaceinvader\spieler.cpp
+	"Spieler.h"
+
+1389671716 c:\users\philip\fopro\spaceinvader\spieler.h
+
+1389654662 source:c:\users\philip\fopro\spaceinvader\position.cpp
+	"Position.h"
+	<cstdlib>
+
+1389828547 c:\users\philip\fopro\spaceinvader\position.h
+
+1390141836 source:c:\users\philip\fopro\spaceinvader\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<mmsystem.h>
+	"Endboss.h"
+	"ObjectCluster.h"
+	"Position.h"
+	"Bullet.h"
+	"Obstacle.h"
+	"Spieler.h"
+
+1390141574 c:\users\philip\fopro\spaceinvader\objectcluster.h
+	<cstdlib>
+	"Bullet.h"
+	"Obstacle.h"
+	<iostream>
+	"Position.h"
+
+1389668131 source:c:\users\philip\fopro\spaceinvader\objectcluster.cpp
+	"ObjectCluster.h"
+	<cstdlib>
+	"Bullet.h"
+	"Obstacle.h"
+	<iostream>
+
+1389828547 source:c:\users\philip\fopro\spaceinvader\bullet.cpp
+	"Bullet.h"
+	"ObjectCluster.h"
+
+1389828547 c:\users\philip\fopro\spaceinvader\bullet.h
+	"Position.h"
+
+1389828547 c:\users\philip\fopro\spaceinvader\obstacle.h
+	"Position.h"
+
+1389828547 source:c:\users\philip\fopro\spaceinvader\obstacle.cpp
+	<cstdlib>
+	"Obstacle.h"
+
+1389660364 source:c:\users\philip\fopro\spaceinvader\data.cpp
+	"ObjectCluster.h"
+	"Spieler.h"
+
+1389750734 c:\users\philip\fopro\spaceinvader\data.cpp
+	"ObjectCluster.h"
+	"Spieler.h"
+
+1389750860 c:\users\philip\fopro\spaceinvader\data.h
+
+1389750860 source:c:\users\philip\fopro\spaceinvader\data.h
+
+1390077087 source:c:\users\philip\fopro\spaceinvader\scorestack.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1390141370 c:\users\philip\fopro\spaceinvader\endboss.h
+
+1552406059 source:e:\hsprogramme\spaceinvader\bullet.cpp
+	"Bullet.h"
+	"ObjectCluster.h"
+
+1552438041 e:\hsprogramme\spaceinvader\bullet.h
+	"Position.h"
+
+1552447248 e:\hsprogramme\spaceinvader\position.h
+
+1552487177 e:\hsprogramme\spaceinvader\objectcluster.h
+	<cstdlib>
+	<map>
+	<iostream>
+	<vector>
+	"Position.h"
+	"Bullet.h"
+	"Obstacle.h"
+	"Settings.h"
+
+1552448373 e:\hsprogramme\spaceinvader\obstacle.h
+	"Position.h"
+	"Settings.h"
+
+1389654662 source:e:\hsprogramme\spaceinvader\position.cpp
+	"Position.h"
+	<cstdlib>
+
+1552488917 source:e:\hsprogramme\spaceinvader\scorestack.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1389670596 source:e:\hsprogramme\spaceinvader\spieler.cpp
+	"Spieler.h"
+
+1552447442 e:\hsprogramme\spaceinvader\spieler.h
+	"Position.h"
+	"Settings.h"
+
+1552489059 source:e:\hsprogramme\spaceinvader\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<mmsystem.h>
+	"Position.h"
+	"Spieler.h"
+	"Obstacle.h"
+	"Settings.h"
+	"Bullet.h"
+	"Turret.h"
+	"ObjectCluster.h"
+
+1390141370 e:\hsprogramme\spaceinvader\endboss.h
+
+1552401226 source:e:\hsprogramme\spaceinvader\obstacle.cpp
+	<cstdlib>
+	"Obstacle.h"
+	"Settings.h"
+
+1552401226 e:\hsprogramme\spaceinvader\settings.h
+
+1552487177 source:e:\hsprogramme\spaceinvader\objectcluster.cpp
+	"ObjectCluster.h"
+	<iostream>
+	"Bullet.h"
+
+1552447442 e:\hsprogramme\spaceinvader\turret.h
+	"Position.h"
+
